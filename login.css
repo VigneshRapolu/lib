@@ -1,0 +1,54 @@
+*{
+    padding:0px;
+    margin:0px;
+
+    background-image: url(bit.jpeg);
+
+    background-size:cover;
+    }
+
+    div{
+    background-color:red;
+    width:300px;
+    height:350px;
+    background-color: transparent;
+    background-size:cover;
+    border-radius:20px;
+    align-items:center;
+    opacity:0.7;
+    border: 2px solid black;
+    }
+    h3{
+    color:gainsboro;
+    background-image: none;
+    opacity: 1.0;
+    }
+    h3,input{
+    margin-left:45px;
+    margin-top:25px;
+    }
+    input{
+    color:black;
+    border: 2px solid black;
+    background-image: none;
+    }
+    #submit{
+    margin-left:45px;
+    margin-top:25px;
+    text-decoration:none;
+    color:white;
+    background-color:black;
+    background-image: none;
+    }
+
+
+    #log{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    background-image: url(image7.jpg);
+    }
+    h3{
+    width:80px;
+    }

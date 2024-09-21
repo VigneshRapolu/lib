@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+a{
+    text-decoration: none;
+
+    color: black;
+    background-color: orange;
+    margin-right: 30px;
+}
+a:hover{
+    border: 2px solid grey;
+
+}

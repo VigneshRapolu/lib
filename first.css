@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+padding: 0;
+background-image: url(library.jpeg);
+background-size: cover;
+
+}
+#firstyr{
+    height: 300px;
+
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+h1,h2{
+    color: black;
+}
+.fy a img{
+height: 300px;
+width: 100%;
+border: 1px solid brown;
+}
+.fy a img:hover{
+    border: 2px solid black;
+
+}
+#secyr{
+    height: 300px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    background-color: white;
+
+}
+.syr a img:hover{
+    border: 1px solid black;
+
+}
+.syr a img{
+    height: 300px;
+    width: 220px;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid brown;
+
+}
+#footer{
+    height: 40px;
+    background-color: white;
+}
+.syr{
+    height: 300px;
+    width:165px ;
+
+}*{
+    margin: 0;
+padding: 0;
+background-image: url(library.jpeg);
+background-size: cover;
+
+}
+#firstyr{
+    height: 300px;
+
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+h1,h2{
+    color: black;
+}
+.fy a img{
+height: 300px;
+width: 100%;
+border: 1px solid brown;
+}
+.fy a img:hover{
+    border: 2px solid black;
+
+}
+#secyr{
+    height: 300px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    background-color: white;
+
+}
+.syr a img:hover{
+    border: 1px solid black;
+
+}
+.syr a img{
+    height: 300px;
+    width: 220px;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid brown;
+
+}
+#footer{
+    height: 40px;
+    background-color: white;
+}
+.syr{
+    height: 300px;
+    width:165px ;
+
+}
